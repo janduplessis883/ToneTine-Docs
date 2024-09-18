@@ -32,7 +32,7 @@ text = "I love sunny days. However, I hate the rain. The weather today is okay."
 # Display the sentiment visualization in Jupyter Notebook
 visualizer.display_notebook(text)
 ```
-### Stremlit App
+### Streamlit App
 ```python
 from tonetint.sentiment_visualizer import ToneTint
 

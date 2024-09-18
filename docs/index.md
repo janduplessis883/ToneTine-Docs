@@ -13,7 +13,7 @@
 - **Flexible Text Chunking**: Splits text into sentences and further into chunks of specified sizes for detailed analysis.
 
 
-
+![image](docs/images/social.png)
 
 
 
